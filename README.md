@@ -4,7 +4,7 @@ You can access the lecture Jupyter notebook by clicking on the "Launch Binder" b
 
 ## IORDS Python (without solutions)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-courses/python-lectures/HEAD?filepath=python_series.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-courses/python-series/HEAD?filepath=python_series.ipynb)
 
 ## IORDS Python (with solutions)
 

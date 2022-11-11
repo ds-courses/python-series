@@ -8,4 +8,4 @@ You can access the lecture Jupyter notebook by clicking on the "Launch Binder" b
 
 ## I2ADS Python (with solutions)
 
-To be announced, please first finish the last exercise of part 1
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-courses/python-series/HEAD?filepath=python_series_solutions.ipynb)
